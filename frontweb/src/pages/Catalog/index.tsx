@@ -28,22 +28,22 @@ const Catalog = () => {
     <div className="container my-4">
       <div className="row">
         <div className="col-sm-6 col-lg-4 col-xl-3">
-          <Link to="/product/1">
+          <Link to="/products/1">
             <ProductCard product={product} />
           </Link>
         </div>
         <div className="col-sm-6 col-lg-4 col-xl-3">
-          <Link to="/product/1">
+          <Link to="/products/1">
             <ProductCard product={product} />
           </Link>
         </div>
         <div className="col-sm-6 col-lg-4 col-xl-3">
-          <Link to="/product/1">
+          <Link to="/products/1">
             <ProductCard product={product} />
           </Link>
         </div>
         <div className="col-sm-6 col-lg-4 col-xl-3">
-          <Link to="/product/1">
+          <Link to="/products/1">
             <ProductCard product={product} />
           </Link>
         </div>
